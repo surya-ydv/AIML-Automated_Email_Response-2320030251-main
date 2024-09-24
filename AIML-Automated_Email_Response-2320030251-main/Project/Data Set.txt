@@ -1,0 +1,9 @@
+Project Dataset Description
+
+The dataset for this project is the Enron Email Dataset, a publicly available collection of around 500,000 emails from the Enron Corporation. This dataset provides a rich source of real-world email interactions, making it ideal for training and developing an automated email response chatbot.
+
+The dataset contains a variety of email topics, including both personal and business communications, making it suitable for natural language processing tasks like email classification, topic modeling, and response generation. By leveraging this dataset, the chatbot can be trained to understand and respond to common customer inquiries effectively, automating routine email responses and improving the efficiency of customer support operations.
+
+LINK:
+
+https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
